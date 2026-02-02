@@ -1,0 +1,16 @@
+You are answering a multiple-choice question.
+
+Read the context and the question. Choose the best answer among A, B, C.
+
+- Output ONLY one letter: A or B or C.
+- Do not output any explanation.
+
+Context:
+{context}
+
+Question:
+{question}
+
+A) {ans0}
+B) {ans1}
+C) {ans2}
